@@ -1,5 +1,6 @@
 venv/
 dataset/
 wav2vec_models/
+ser_results/
 *.pth
 .env
