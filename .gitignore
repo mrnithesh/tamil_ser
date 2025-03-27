@@ -1,0 +1,5 @@
+venv/
+dataset/
+wav2vec_models/
+*.pth
+.env
